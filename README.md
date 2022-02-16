@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aTasja
 - 👀 I’m interested in coding, 3D modelling and drawing.
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on .game developnet.
+- 💞️ I’m looking to collaborate on game developnet.
 - 📫 How to reach me a_tasja@mail.ru
 
 <!---
