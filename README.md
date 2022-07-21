@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, 3D modelling and drawing.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on game development.
-- 📫 How to reach me a_tasja@mail.ru
+- 📫 How to reach me -> a_tasja@mail.ru
 
 <!---
 aTasja/aTasja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
